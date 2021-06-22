@@ -1,3 +1,5 @@
+//DEQ 구현 (앞에도 push pop 뒤에서도 push pop가능한 큐)
+
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
 
